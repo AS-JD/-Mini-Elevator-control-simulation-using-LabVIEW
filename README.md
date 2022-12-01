@@ -1,7 +1,8 @@
 # Mini-Elevator-control-simulation-using-LabVIEW
 
 we have 5 events:
-              -wait for postion (waiting to click on the buttons).
+
+              - wait for postion (waiting to click on the buttons).
               
              - click on button 0 (call the elevator on the ground floor).
              
